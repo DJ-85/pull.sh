@@ -71,6 +71,7 @@ fi
 sleep 2
 echo
 echo
+echo
 echo "Location for files = /home/home"
 echo "If you are reading this, everything went well and you are done"
 echo "Twitter @dj8218521 
